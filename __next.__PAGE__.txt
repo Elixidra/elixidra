@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[79005,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js","/elixidra-website/_next/static/chunks/185dx78t4z87_.js"],"HeroSection"]
+3:I[21490,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js","/elixidra-website/_next/static/chunks/185dx78t4z87_.js"],"Products"]
+4:I[20608,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js","/elixidra-website/_next/static/chunks/185dx78t4z87_.js"],"About"]
+5:I[15751,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js","/elixidra-website/_next/static/chunks/185dx78t4z87_.js"],"Contact"]
+6:I[76841,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js","/elixidra-website/_next/static/chunks/185dx78t4z87_.js"],"Footer"]
+7:I[97367,["/elixidra-website/_next/static/chunks/01xlw8hd842-c.js","/elixidra-website/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"bg-white","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}],[["$","script","script-0",{"src":"/elixidra-website/_next/static/chunks/185dx78t4z87_.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SbiiEwuPobHbtQ-zh1ozz"}
+9:null
