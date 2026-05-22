@@ -1,0 +1,4 @@
+Contact: mailto:contact@elixidra.com
+Preferred-Languages: en, it
+Canonical: https://elixidra.com/.well-known/security.txt
+Policy: https://elixidra.com/security
