@@ -1,12 +1,11 @@
 {
   "app": "mnara",
-  "version": "1.5.5",
-  "build": 56,
-  "tag": "v1.5.5",
-  "date": "2026-11-10",
+  "version": "1.5.6",
+  "build": 57,
+  "tag": "v1.5.6",
+  "date": "2026-11-11",
   "notes": [
-    "fix: replace fake Free RAM with an honest memory view",
-    "Make release.sh meet the Mac app release standard (step B1)"
+    "CPU temperature: hottest CPU die sensor, never the SSD"
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.5/Mnara-1.5.5.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.6/Mnara-1.5.6.dmg"
 }
