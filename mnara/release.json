@@ -1,11 +1,12 @@
 {
   "app": "mnara",
-  "version": "1.5.6",
-  "build": 57,
-  "tag": "v1.5.6",
-  "date": "2026-11-11",
+  "version": "1.5.7",
+  "build": 58,
+  "tag": "v1.5.7",
+  "date": "2026-11-12",
   "notes": [
-    "CPU temperature: hottest CPU die sensor, never the SSD"
+    "Sparkle signing without Keychain pop-ups",
+    "Claude Code: engineering: In the Mnara product/repo, check whether the storage readings are c"
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.6/Mnara-1.5.6.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.7/Mnara-1.5.7.dmg"
 }
