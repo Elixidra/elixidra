@@ -1,12 +1,13 @@
 {
   "app": "mnara",
-  "version": "1.5.7",
-  "build": 58,
-  "tag": "v1.5.7",
+  "version": "1.5.8",
+  "build": 59,
+  "tag": "v1.5.8",
   "date": "2026-11-12",
   "notes": [
-    "Sparkle signing without Keychain pop-ups",
-    "Claude Code: engineering: In the Mnara product/repo, check whether the storage readings are c"
+    "Alert banners have clearer buttons (Free RAM, Optimize, Clean Up) and stay visible while your pointer is over them.",
+    "Storage sizes now show in decimal GB everywhere, matching Finder.",
+    "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.7/Mnara-1.5.7.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.8/Mnara-1.5.8.dmg"
 }
