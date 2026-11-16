@@ -1,13 +1,11 @@
 {
   "app": "lask",
-  "version": "1.2.5",
-  "build": 18,
-  "tag": "v1.2.5",
+  "version": "1.2.6",
+  "build": 19,
+  "tag": "v1.2.6",
   "date": "2026-11-16",
   "notes": [
-    "Quick Note now keeps your place when opening and closing.",
-    "This version is for Apple Silicon Macs; Intel Macs keep their current version.",
-    "Reliability improvements."
+    "See real Lask screenshots without personal data."
   ],
-  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.5/LASK.dmg"
+  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.6/LASK.dmg"
 }
