@@ -1,13 +1,12 @@
 {
   "app": "mnara",
-  "version": "1.5.8",
-  "build": 59,
-  "tag": "v1.5.8",
-  "date": "2026-11-12",
+  "version": "1.5.9",
+  "build": 60,
+  "tag": "v1.5.9",
+  "date": "2026-11-16",
   "notes": [
-    "Alert banners have clearer buttons (Free RAM, Optimize, Clean Up) and stay visible while your pointer is over them.",
-    "Storage sizes now show in decimal GB everywhere, matching Finder.",
+    "Alert banners have a new glass look with a glowing border and clearer action and Dismiss buttons.",
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.8/Mnara-1.5.8.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v1.5.9/Mnara-1.5.9.dmg"
 }
