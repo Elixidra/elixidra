@@ -1,19 +1,13 @@
 {
   "app": "mnara",
-  "version": "2.1.0",
-  "build": 62,
-  "tag": "v2.1.0",
+  "version": "2.1.2",
+  "build": 64,
+  "tag": "v2.1.2",
   "date": "2026-11-18",
   "notes": [
-    "New Health check (Mnara 2.0): battery, disk health and free space, heat, memory pressure, crashes and freezes, startup items.",
-    "Each check shows the macOS value behind it.",
-    "Alerts when a check gets worse, each with what was measured and one clear next step.",
-    "\"Get help from Apple\" appears only for hardware problems, and can be turned off in Settings.",
-    "Weekly health summary every Monday.",
-    "Explain my Mac now covers the Health check and only uses measured values.",
-    "Checks that can't read their data stay hidden instead of showing wrong values.",
-    "The upgrade banner can be closed with ×; the upgrade stays in Settings → License.",
+    "Settings show only what your licence includes.",
+    "Mnara 2 needs a Mnara 2 licence.",
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.0/Mnara-2.1.0.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.2/Mnara-2.1.2.dmg"
 }
