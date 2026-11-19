@@ -1,13 +1,11 @@
 {
   "app": "mnara",
-  "version": "2.1.2",
-  "build": 64,
-  "tag": "v2.1.2",
-  "date": "2026-11-18",
+  "version": "2.1.5",
+  "build": 66,
+  "tag": "v2.1.5",
+  "date": "2026-11-19",
   "notes": [
-    "Settings show only what your licence includes.",
-    "Mnara 2 needs a Mnara 2 licence.",
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.2/Mnara-2.1.2.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.5/Mnara-2.1.5.dmg"
 }
