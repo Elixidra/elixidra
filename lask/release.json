@@ -1,11 +1,12 @@
 {
   "app": "lask",
-  "version": "1.2.6",
-  "build": 19,
-  "tag": "v1.2.6",
-  "date": "2026-11-16",
+  "version": "1.2.8",
+  "build": 21,
+  "tag": "v1.2.8",
+  "date": "2026-11-20",
   "notes": [
+    "Paywall now shows €29.99.",
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.6/LASK.dmg"
+  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.8/LASK.dmg"
 }
