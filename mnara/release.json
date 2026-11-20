@@ -1,11 +1,11 @@
 {
   "app": "mnara",
-  "version": "2.1.5",
-  "build": 66,
-  "tag": "v2.1.5",
-  "date": "2026-11-19",
+  "version": "2.1.8",
+  "build": 68,
+  "tag": "v2.1.8",
+  "date": "2026-11-20",
   "notes": [
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.5/Mnara-2.1.5.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.8/Mnara-2.1.8.dmg"
 }
