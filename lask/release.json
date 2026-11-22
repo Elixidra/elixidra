@@ -1,12 +1,14 @@
 {
   "app": "lask",
-  "version": "1.2.8",
-  "build": 21,
-  "tag": "v1.2.8",
-  "date": "2026-11-20",
+  "version": "1.2.9",
+  "build": 22,
+  "tag": "v1.2.9",
+  "date": "2026-11-22",
   "notes": [
-    "Paywall now shows €29.99.",
+    "Record screen with sound and pointer.",
+    "Stop recording via menu bar.",
+    "Record screen instantly with one click.",
     "Reliability improvements."
   ],
-  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.8/LASK.dmg"
+  "download": "https://github.com/Elixidra/lask-updates/releases/download/v1.2.9/LASK.dmg"
 }
