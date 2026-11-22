@@ -1,11 +1,14 @@
 {
   "app": "mnara",
-  "version": "2.1.8",
-  "build": 68,
-  "tag": "v2.1.8",
-  "date": "2026-11-20",
+  "version": "2.1.10",
+  "build": 70,
+  "tag": "v2.1.10",
+  "date": "2026-11-22",
   "notes": [
-    "Reliability improvements."
+    "Clean safe items, move others to trash.",
+    "See progress and stop anytime.",
+    "See cleaning progress and space freed.",
+    "Free space instantly or undo safely."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.8/Mnara-2.1.8.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.10/Mnara-2.1.10.dmg"
 }
