@@ -1,14 +1,14 @@
 {
   "app": "mnara",
-  "version": "2.1.10",
-  "build": 70,
-  "tag": "v2.1.10",
-  "date": "2026-11-22",
+  "version": "2.1.11",
+  "build": 71,
+  "tag": "v2.1.11",
+  "date": "2026-11-25",
   "notes": [
-    "Clean safe items, move others to trash.",
-    "See progress and stop anytime.",
-    "See cleaning progress and space freed.",
-    "Free space instantly or undo safely."
+    "Now in 8 languages, including Arabic.",
+    "Full right-to-left layout in Arabic.",
+    "Japanese and Chinese in beta.",
+    "Pick a language in Settings → General."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.10/Mnara-2.1.10.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.11/Mnara-2.1.11.dmg"
 }
