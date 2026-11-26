@@ -1,0 +1,1 @@
+import{R as o,j as e,a as r,L as t}from"./index-DKTl8NRA.js";import{A as a}from"./App-Bkkd3g44.js";o.createRoot(document.getElementById("root")).render(e.jsx(r.StrictMode,{children:e.jsx(t,{locale:"en",children:e.jsx(a,{})})}));
