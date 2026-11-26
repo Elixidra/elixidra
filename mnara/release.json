@@ -1,14 +1,12 @@
 {
   "app": "mnara",
-  "version": "2.1.11",
-  "build": 71,
-  "tag": "v2.1.11",
-  "date": "2026-11-25",
+  "version": "2.1.12",
+  "build": 72,
+  "tag": "v2.1.12",
+  "date": "2026-11-26",
   "notes": [
-    "Now in 8 languages, including Arabic.",
-    "Full right-to-left layout in Arabic.",
-    "Japanese and Chinese in beta.",
-    "Pick a language in Settings → General."
+    "Arabic now reads right to left in the whole app.",
+    "Translation fixes in all 8 languages."
   ],
-  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.11/Mnara-2.1.11.dmg"
+  "download": "https://github.com/Elixidra/Mnara-updates/releases/download/v2.1.12/Mnara-2.1.12.dmg"
 }
